@@ -1,9 +1,9 @@
 Name: INDIA
-Total patients: 29
-Total infected: 29
+Total patients: 30
+Total infected: 30
 Total recovered: 19
-Total deceased: 10
-Fatality rate: 0.3448275862068966
+Total deceased: 11
+Fatality rate: 0.36666666666666664
 
 State: Maharashtra
 Total patients: 10
@@ -48,11 +48,11 @@ Total deceased: 1
 Fatality rate: 0.2
 
 State: Gujrat
-Total patients: 9
-Total infected: 9
+Total patients: 10
+Total infected: 10
 Total recovered: 7
-Total deceased: 2
-Fatality rate: 0.2222222222222222
+Total deceased: 3
+Fatality rate: 0.3
 
 Name: Wockart Hospital
 Total patients: 5
@@ -62,9 +62,9 @@ Total deceased: 1
 Fatality rate: 0.2
 
 Name: Patel Hospital
-Total patients: 4
-Total infected: 4
+Total patients: 5
+Total infected: 5
 Total recovered: 3
-Total deceased: 1
-Fatality rate: 0.25
+Total deceased: 2
+Fatality rate: 0.4
 

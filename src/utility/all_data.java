@@ -1,7 +1,6 @@
 package utility;
 import java.io.BufferedReader;
 import java.io.FileReader;
-
 import Location.Country;
 import Location.Hospital;
 import Location.State;
