@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 import Location.Country;
 import Location.Hospital;
 import Location.State;
@@ -8,7 +6,6 @@ import utility.all_data;
 
 public class Main {
     public static void main(String[] args) {
-
         all_data data = new all_data();
         Country country = data.getCountry();
         data.readInputFromFile("inputFiles/input.txt");
